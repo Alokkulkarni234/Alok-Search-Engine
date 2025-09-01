@@ -23,13 +23,13 @@ SQLAlchemy
 validators==0.28.1
 youtube_transcript_api
 streamlit
-duckduckgo-search
 unstructured
 pytube
 numexpr
 huggingface_hub
 langchain
 langchain-community
+
 
 
 
