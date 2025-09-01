@@ -27,11 +27,11 @@ SQLAlchemy
 validators==0.28.1
 youtube_transcript_api
 streamlit
-duckduckgo-search==5.3.1
+duckduckgo-search==3.5.0
 unstructured
 pytube
 numexpr
 huggingface_hub
 langchain
 langchain-community
-duckduckgo-search
+
